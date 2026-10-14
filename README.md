@@ -1,2 +1,2 @@
 # restaurant
-burestaurant uchun menyu websayti
+bu restaurant uchun menyu websayti
